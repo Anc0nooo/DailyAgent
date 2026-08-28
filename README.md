@@ -1,4 +1,4 @@
-# RIBAO - AI 智能日报生成器
+# DailyAgent - AI 智能日报生成器
 
 <div align="center">
 
